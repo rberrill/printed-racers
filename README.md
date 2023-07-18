@@ -26,7 +26,8 @@ We welcome contributions from the community. Please read our [CONTRIBUTING.md](l
 
 ## License
 
-This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE.md](link to your license) file for details.
+This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 ## Acknowledgments
 
