@@ -13,12 +13,8 @@ Printed Racers is an open-source project aimed at creating a 3D printed, remote 
 
 ## Releases
 
-### v1.0
-- Initial release of the F1 2023 racing car design.
-
-## Getting Started
-
-This section should include instructions on how to get a copy of your project up and running on the user's local machine. This could include software they need to install, how to download your project, and any initial setup instructions.
+### Formula 2023 RC Car v0.1 - releasing after alpha testing
+- Initial beta release of the Formula 2023 RC racing car design.
 
 ## Contributing
 
@@ -28,9 +24,6 @@ We welcome contributions from the community. Please read our [CONTRIBUTING.md](C
 
 This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
 
-
 ## Acknowledgments
 
-- Thanks to anyone whose code was used
-- Inspiration
-- etc.
+- Thanks in particular [Daniel Noree](https://danielnoree.com/the-openrc-f1-build-guide/) and his amazing Open F1 RC car, and the community around it, they have inspired me to work on this project
