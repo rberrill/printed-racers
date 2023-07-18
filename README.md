@@ -22,7 +22,7 @@ This section should include instructions on how to get a copy of your project up
 
 ## Contributing
 
-We welcome contributions from the community. Please read our [CONTRIBUTING.md](link to your contributing guidelines) for details on how to submit pull requests to us.
+We welcome contributions from the community. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit pull requests to us.
 
 ## License
 
