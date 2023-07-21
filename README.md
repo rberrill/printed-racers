@@ -15,8 +15,8 @@ Printed Racers is an open-source project to create a 3D-printed, remote control 
 
 ## Releases
 
-### Formula 2023 RC Car v0.1 - releasing after alpha testing
-- Initial beta release of the Formula 2023 RC racing car design.
+### Formula RC Car v0.1 - releasing after alpha testing
+- Initial beta release of the Formula RC racing car design.
 
 ## Contributing
 
